@@ -1,0 +1,19 @@
+# 68k-Dissasembler
+
+Personal Project
+
+This WAS a final project in my hardware class at the University of Washington Bothell, (CSS 422 Hardware and Memory Organization) 
+but I enjoyed writing my portion (and then some) so much that I decided to make this a personal project. 
+
+My goal here is going to be edit and polish this so that there are no more bugs, I also aim to replace Blakes version of I/O with mine. 
+
+CREDITS
+-Full Credit goes to Blake Hashimoto for writing the input output file (Main.x68), and about 80% of the driver file. 
+-Also to Kristen Attebury for writing the original OP_jumptable.x68.
+-I editted the OPCode portion extensivley, not to suggest my collegue didn't work hard... 
+  but as it stands, I think its fair for me to claim 50% credit for OP_Jumptable.x68.
+-I wrote 100% of the EFFECTIVE_ADDRESSES.X68, and testingFile.x68.
+
+INITIAL BUGS REPORT (6/27/16)
+-movem has multiple bugs... its mostly functional but there are too many to list. 
+-sub seemed to cause quite a few errors in the final version. 
