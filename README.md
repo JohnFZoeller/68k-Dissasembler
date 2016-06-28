@@ -5,7 +5,11 @@ Personal Project
 This WAS a final project in my hardware class at the University of Washington Bothell, (CSS 422 Hardware and Memory Organization) 
 but I enjoyed writing my portion (and then some) so much that I decided to make this a personal project. 
 
-My goal here is going to be edit and polish this so that there are no more bugs, I also aim to replace Blakes version of I/O with mine. 
+GOALS
+-edit and polish
+-eliminate bugs
+-replace blakes version of I/O with my own
+-add support for my opcodes. 
 
 CREDITS
 -Full Credit goes to Blake Hashimoto for writing the input output file (Main.x68), and about 80% of the driver file. 
