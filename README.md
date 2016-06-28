@@ -13,6 +13,7 @@ CREDITS
 -I editted the OPCode portion extensivley, not to suggest my collegue didn't work hard... 
   but as it stands, I think its fair for me to claim 50% credit for OP_Jumptable.x68.
 -I wrote 100% of the EFFECTIVE_ADDRESSES.X68, and testingFile.x68.
+-the change log catalogs all of the changes I made in the last 48 hours before the project was due. 
 
 INITIAL BUGS REPORT (6/27/16)
 -movem has multiple bugs... its mostly functional but there are too many to list. 
